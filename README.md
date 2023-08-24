@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aepulzaini
 - 👀 I’m interested in learning a new things 
 - 🌱 I’m currently learning cyber security 
-- 💞️ I’m looking to collaborate on all of the cybersec event.
+- 💞️ I’m looking to collaborate in opensource project.
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/ahmad-saiful-zaini-26339524b/
 
 <!---
